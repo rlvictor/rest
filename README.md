@@ -1,1 +1,1 @@
-# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/bh6wifivtlunf7hr?svg=true)](https://ci.appveyor.com/project/rlvictor/rest)
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/ovdlru5idty67u28?svg=true)](https://ci.appveyor.com/project/rlvictor/rest)
